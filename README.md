@@ -1,0 +1,2 @@
+# QuoteGen.API
+# Consuming APIs
